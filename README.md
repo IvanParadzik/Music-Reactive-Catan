@@ -5,6 +5,12 @@
 
 ![Catan Assembly Drawing](https://user-images.githubusercontent.com/55515683/206863610-0e9c55bc-98ea-4298-a4e8-c56382edc0b1.png)
 
+# Assembly Video
+
+https://user-images.githubusercontent.com/55515683/206865011-b5154133-324e-4b34-a132-fd57ebc31fe8.mp4
+
+# Assembly Instruction 
+
 1. Put led stripes on main board trought holes
 
 ![20221210_173503](https://user-images.githubusercontent.com/55515683/206865452-80db42b9-daf1-482d-857e-451147d0355f.jpg)
@@ -34,10 +40,6 @@
 ![20221210_173632](https://user-images.githubusercontent.com/55515683/206865725-92205872-4263-4e62-9cb6-868c6d64e761.jpg)
 
 8. Plug in arduino and enjoy!
-
-# Assembly Video
-
-https://user-images.githubusercontent.com/55515683/206865011-b5154133-324e-4b34-a132-fd57ebc31fe8.mp4
 
 # Reddit link  
 To see Catan in action:

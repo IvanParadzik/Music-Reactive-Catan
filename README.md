@@ -44,6 +44,7 @@ https://user-images.githubusercontent.com/55515683/206865011-b5154133-324e-4b34-
 
 5.Connect all wires to Arduino 
 
+Unfortunatly don't have wiring diagram
 
 6. Close Main Board and put screws
 

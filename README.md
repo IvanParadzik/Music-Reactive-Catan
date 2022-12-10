@@ -1,6 +1,21 @@
 # Music-Reactive-Catan
 3D printing/ Arduino/ Boardgame Project
 
+# Bill of materials
+
+1. Arduino Nano 
+2. Arduino Microphone Module
+3. Led strip WS2812
+4. Push Button Momentary Panel Mount Black Knob SPST-NO
+5. M3 Nut (3 pieces)
+6. M3 Screw (3 pieces)
+7. Jump Wires
+3D printed parts :
+1. Upper Cover
+2.Lower Cover
+3. Main Board
+
+
 # Assembly Drawing 
 
 ![Catan Assembly Drawing](https://user-images.githubusercontent.com/55515683/206863610-0e9c55bc-98ea-4298-a4e8-c56382edc0b1.png)

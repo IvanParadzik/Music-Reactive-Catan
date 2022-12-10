@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/55515683/206865011-b5154133-324e-4b34-
 
 ![20221210_173632](https://user-images.githubusercontent.com/55515683/206865725-92205872-4263-4e62-9cb6-868c6d64e761.jpg)
 
-8. Plug in arduino and enjoy!
+8. Plug in Catan and enjoy!
 
 # Reddit link  
 To see Catan in action:

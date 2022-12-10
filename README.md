@@ -10,9 +10,8 @@
 5. M3 Nut (3 pieces)
 6. M3 Screw (3 pieces)
 7. Jump Wires
-
 8. Upper Cover (3D Printed)
-9.Lower Cover (3D Printed)
+9. Lower Cover (3D Printed)
 10. Main Board (3D Printed)
 
 

@@ -7,5 +7,9 @@
 
 # How to Assembly Video
 
-https://user-images.githubusercontent.com/55515683/206863806-6b4b97d7-27ac-44f0-83aa-1bba99cd35ae.mp4
+https://user-images.githubusercontent.com/55515683/206864170-54b58409-623d-4ada-b9b6-de82f8755ac2.mp4
+
+
+
+
 

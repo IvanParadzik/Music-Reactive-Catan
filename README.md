@@ -10,10 +10,9 @@
 5. M3 Nut (3 pieces)
 6. M3 Screw (3 pieces)
 7. Jump Wires
-3D printed parts :
-1. Upper Cover
-2.Lower Cover
-3. Main Board
+8. Upper Cover (3D Printed)
+9.Lower Cover (3D Printed)
+10. Main Board (3D Printed)
 
 
 # Assembly Drawing 

@@ -25,11 +25,11 @@ https://user-images.githubusercontent.com/55515683/206865011-b5154133-324e-4b34-
 
 # Assembly Instructions
 
-1. Put led stripes on main board trought holes
+1. Put led stripes on main board through holes
 
 ![20221210_173503](https://user-images.githubusercontent.com/55515683/206865452-80db42b9-daf1-482d-857e-451147d0355f.jpg)
 
-2. Insert Arduino Nano and Microphone Module to Correct position and fix them with wire trought the holes
+2. Insert Arduino Nano and Microphone Module to Correct position and fix them with wire through the holes
 
 ![20221210_173524](https://user-images.githubusercontent.com/55515683/206865545-6538e7df-098a-4c5e-ba4c-43d9485d7003.jpg)
 ![20221209_104538](https://user-images.githubusercontent.com/55515683/206865553-671f9954-1c70-41ca-b3da-60bdf032d976.jpg)

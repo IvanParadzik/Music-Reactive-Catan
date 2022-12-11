@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/55515683/206865011-b5154133-324e-4b34-
 
 ![20221210_173602](https://user-images.githubusercontent.com/55515683/206865606-3cfe836b-0bfe-4751-b3a7-1b10454de4dc.jpg)
 
-4. Put M3 nuts to lower cover
+4. Put and glue M3 nuts to lower cover 
 
 ![20221209_104613](https://user-images.githubusercontent.com/55515683/206865643-8cbbba6d-f742-4f93-bcdb-b98d10fc19b6.jpg)
 
